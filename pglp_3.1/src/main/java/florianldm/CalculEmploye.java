@@ -1,12 +1,24 @@
 package florianldm;
 
+/**
+ * Classe qui s'occupe de faire des calculs sur les employés.
+ */
 public class CalculEmploye extends Employe {
 
-    public CalculEmploye(String nom, String adresse) {
+    /**
+     * Constructeur de la classe.
+     * @param nom
+     * @param adresse
+     */
+    public CalculEmploye(final String nom, final String adresse) {
         super(nom, adresse);
     }
 
-    public double calculSalaire(){
+    /**
+     * Méthode de calcul de salaire.
+     * @return salaire
+     */
+    public double calculSalaire() {
         //Calcul salaire//
         return 0.;
     }

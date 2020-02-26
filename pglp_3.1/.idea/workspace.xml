@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57d1b93d-832a-4578-b751-5885cdb3e23a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/florianldm/Employe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/florianldm/testEmploye.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/florianldm/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/florianldm/CalculEmploye.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/florianldm/CalculEmploye.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/florianldm/Employe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/florianldm/Employe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/florianldm/testEmploye.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/florianldm/testEmploye.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/florianldm/testEmploye.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/florianldm/testEmploye.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
